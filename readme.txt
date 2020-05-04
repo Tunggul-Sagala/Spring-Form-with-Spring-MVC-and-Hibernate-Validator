@@ -1,0 +1,1 @@
+This application is a simple student form that can validate each input using hibernate validator.
